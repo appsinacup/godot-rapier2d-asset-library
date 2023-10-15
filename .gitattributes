@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+/.gitattributes export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/README.md export-ignore
+/THIRDPARTY.txt export-ignore
+/LICENSE export-ignore
